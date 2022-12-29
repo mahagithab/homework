@@ -278,3 +278,6 @@ let newArr = arr.filter((el) => {
 let sum = newArr.reduce((acc,rec) => {
     return acc = rec
 })
+
+
+let name = "vanya"
