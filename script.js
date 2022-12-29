@@ -281,3 +281,10 @@ let sum = newArr.reduce((acc,rec) => {
 
 
 let name = "vanya"
+
+let str = "mahabat"
+
+// git init
+// git add .
+// git commit -m "название кратко"
+// git push
